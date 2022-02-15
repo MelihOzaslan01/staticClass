@@ -1,0 +1,15 @@
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\staticClass.exe
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\staticClass.deps.json
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\staticClass.runtimeconfig.json
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\staticClass.dll
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\ref\staticClass.dll
+D:\pratikler\static Class\staticClass\bin\Debug\net6.0\staticClass.pdb
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.csproj.AssemblyReference.cache
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.AssemblyInfoInputs.cache
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.AssemblyInfo.cs
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.csproj.CoreCompileInputs.cache
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.dll
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\ref\staticClass.dll
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.pdb
+D:\pratikler\static Class\staticClass\obj\Debug\net6.0\staticClass.genruntimeconfig.cache
